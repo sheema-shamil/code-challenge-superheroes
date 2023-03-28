@@ -169,15 +169,6 @@ https://superheroes11.onrender.com//powers/4
 Updates a specific power by id.
 
 
-
-POST /hero_powers
-
-use postman or Thunder client to test it out
-
-https://superheroes11.onrender.com//hero_powers
-
-Creates a new HeroPower
-
 <!-- LICENSE -->
 ## License
 
