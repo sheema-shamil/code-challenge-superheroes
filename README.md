@@ -1,16 +1,5 @@
 
-<br />
-<div align="center">
-  <h3 align="center">Phase-4-Code-Challenge</h3>
-  <p align="center">
-    A 'mini' Rails application.
-    <br />
-    <a href="https://github.com/Marylucy123450/Phase-4-Code-Challenge-Superheroes"><strong>Explore the repository »</strong></a>
-    <br />
-  </p>
-</div>
 
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
