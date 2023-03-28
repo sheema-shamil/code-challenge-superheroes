@@ -21,8 +21,8 @@ Rails: 7.0.4
 
 ## Setup
 ~~~bash
-$ git@github.com:https://github.com/Marylucy123450/Phase-4-Code-Challenge-Superheroes
-$ cd Phase-4-Code-Challenge-Superheroes
+$ git@github.com:https:github.com/sheema-shamil/code-challenge-superheroes
+$ cd code-challenge-superheroes
 ~~~
 
 Install gems with:
