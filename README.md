@@ -13,8 +13,6 @@ An API for tracking heroes and their superpowers.The Superhero Tracker API is a 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 Ruby: 2.7.4 
 Rails: 7.0.4
