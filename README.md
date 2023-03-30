@@ -64,7 +64,7 @@ json
     "description": "The power to propel oneself through the air."
     }
     ]
-    },
+    },  
     ]
 
 GET /heroes/:id
